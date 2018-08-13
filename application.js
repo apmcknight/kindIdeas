@@ -1,3 +1,5 @@
+/* © 2018 by Adam McKnight, All Rights Reserved. http://www.adammcknight.co */
+
 // Stores the Kind Ideas
 var kind = [
     "Smile at a random person! 😀",
