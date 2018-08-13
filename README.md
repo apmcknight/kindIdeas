@@ -22,4 +22,5 @@ While building this project I came across several (let’s call them) learning e
 * Create a Created by Adam badge (One that’s more subtle) 
 * Add a way for users to suggest ideas through a form
 * Link to adammcknight.co URL using GitHub Pages
+* Make the page responsive
 
