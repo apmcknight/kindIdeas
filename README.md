@@ -20,10 +20,10 @@ Soon you'll be able to contribute to the Kind Ideas project. Check back in a few
 While building this project I came across several (let’s call them) learning experiences. Having mastery using HTML & CSS, but having no JavaScript knowledge was a difficult learning experience to overcome, seeing how the majority of the web application was written in JavaScript.
 
 ## Left To Do
-[] Add an about button, so users can read more about the project.
-[] Clean up the padding
-[] Create a Created by Adam badge (One that’s more subtle) 
-[] Add a way for users to suggest ideas through a form
-[] Link to adammcknight.co URL using GitHub Pages
-[] Make the page responsive
+- [ ] Add an about button, so users can read more about the project
+- [ ] Clean up the padding
+- [ ] Create a Created by Adam badge (One that’s more subtle) 
+- [ ] Add a way for users to suggest ideas through a form (Along with a system on GitHub to contribute)
+- [ ] Link to adammcknight.co URL using GitHub Pages
+- [ ] Make the page responsive
 
