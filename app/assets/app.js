@@ -15,7 +15,7 @@ function newDeed(){
 }
 
 function hidePlaceholder(){
-    // Hides placeholder text
+    // Hides placeholder text.
     var placeholder = document.getElementById("placeholder");
         if (placeholder.style.display === "none") {
             placeholder.style.display = "none";
