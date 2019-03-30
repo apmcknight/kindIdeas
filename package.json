@@ -1,0 +1,27 @@
+{
+  "name": "kindideas",
+  "version": "1.0.0",
+  "description": "Kind Idea Generator",
+  "main": "main.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "http-server ./app -d false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apmcknight/kindIdeas.git"
+  },
+  "author": "Adam McKnight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apmcknight/kindIdeas/issues"
+  },
+  "homepage": "https://github.com/apmcknight/kindIdeas#readme",
+  "devDependencies": {
+    "jest": "^24.5.0",
+    "http-server": "^0.11.1"
+  }
+}
